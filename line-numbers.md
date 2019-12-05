@@ -8,7 +8,7 @@
 #### 8
 #### 9 GitHub is really awesome
 #### 10
-#### 11 GitHub is boring
+#### 11 Github is awesome
 #### 12
 #### 13
 #### 14
