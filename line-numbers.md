@@ -6,7 +6,7 @@
 #### 6
 #### 7 Jaiden and Brayden have my name in their name.
 #### 8
-#### 9
+#### 9 GitHub is awesome.
 #### 10
 #### 11
 #### 12
